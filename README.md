@@ -5,3 +5,5 @@
 - How to add hover functionality to reveal sublinks nested in navbar links when the user hovers through it
 - Improved my use of react context API
 - "getBoundingClientRect" function
+
+Hosted at: https://tim-stripehome.netlify.app/
